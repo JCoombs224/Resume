@@ -1,4 +1,4 @@
-![headshot](headshot.jpg)Jamison Coombs
+![headshot](headshot.jpg = 200x) Jamison Coombs
 ============
 
 -------------------     ----------------------------
