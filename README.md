@@ -42,6 +42,8 @@ I created a lot of different level designs and game enviroments as a side job.
 Some picture examples can be found here: 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/wSabB"  ><a href="//imgur.com/a/wSabB">Source engine mapping screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+---------
+
 **Programming Languages:**
 Primary: Java, Lua
 Secondary: C++, Assembly
