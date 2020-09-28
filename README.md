@@ -1,4 +1,4 @@
-![headshot](headshot.jpg = 200x) Jamison Coombs
+<img src="headshot.jpg" width="200" height="200" /> Jamison Coombs
 ============
 
 -------------------     ----------------------------
