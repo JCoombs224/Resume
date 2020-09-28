@@ -1,4 +1,4 @@
-Jamison Coombs
+![headshot](headshot.jpeg)Jamison Coombs
 ============
 
 -------------------     ----------------------------
