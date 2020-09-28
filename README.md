@@ -25,8 +25,6 @@ My main duties were to keep the restaurant clean for the guests by cleaning tabl
 Cashier
 I also worked as the cashier where my duties were to seat guests, take reservations, handle the bills paid with cash, as well as taking To-Go orders online, on the phone, and in person.
 
----------------------------
-
 **California Watersports**
 Carlsbad, CA
 Summer - Fall 2019
